@@ -1,3 +1,4 @@
+#2023078007_이지현
 def calculate_grade(score):
     if score >= 90:
         return 'A'
